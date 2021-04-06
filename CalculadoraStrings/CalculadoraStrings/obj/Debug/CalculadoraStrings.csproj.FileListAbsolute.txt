@@ -1,0 +1,7 @@
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStrings\bin\Debug\CalculadoraStrings.exe.config
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStrings\bin\Debug\CalculadoraStrings.exe
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStrings\bin\Debug\CalculadoraStrings.pdb
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStrings\obj\Debug\CalculadoraStrings.csprojAssemblyReference.cache
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStrings\obj\Debug\CalculadoraStrings.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStrings\obj\Debug\CalculadoraStrings.exe
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStrings\obj\Debug\CalculadoraStrings.pdb
