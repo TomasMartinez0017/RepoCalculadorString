@@ -1,0 +1,17 @@
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\CalculadoraStringsTest.dll
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\CalculadoraStringsTest.pdb
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\CalculadoraStrings.exe
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\CalculadoraStrings.pdb
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\CalculadoraStrings.exe.config
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.csprojAssemblyReference.cache
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.csproj.CopyComplete
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.dll
+C:\Users\Administrador\RepoCalculadorString\CalculadoraStrings\CalculadoraStringsTest\obj\Debug\CalculadoraStringsTest.pdb
